@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40367ucmf_0_0014.png"; bbox 0 0 2265 3391; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 150 1115 532">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 150 1115 532">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 150 1115 532; baseline 0.022 -104"><span class='ocrx_word' id='word_1_1' title='bbox 186 150 742 504; x_wconf 78' lang='lat' dir='ltr'><strong>Feofan,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 799 159 1115 532; x_wconf 79' lang='lat' dir='ltr'>Abp</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 181 1084 1116 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 181 1084 1116 1856">
+     <span class='ocr_line' id='line_1_2' title="bbox 185 1084 1073 1383; baseline 0.018 -16"><span class='ocrx_word' id='word_1_3' title='bbox 185 1084 1073 1383; x_wconf 79' lang='lat' dir='ltr'>Illustrissmn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 181 1563 1116 1856; baseline 0.004 -20"><span class='ocrx_word' id='word_1_4' title='bbox 181 1563 1116 1856; x_wconf 79' lang='lat' dir='ltr'>reverendissi-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1138 3391">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1138 3391">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1138 3391; baseline 0 1"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1138 3391; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 182 2497 904 2852">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 182 2497 1126 2852">
+     <span class='ocr_line' id='line_1_5' title="bbox 182 2497 904 2852; baseline 0.007 -71"><span class='ocrx_word' id='word_1_6' title='bbox 182 2497 904 2852; x_wconf 75' lang='lat' dir='ltr'>Wroelaw,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
